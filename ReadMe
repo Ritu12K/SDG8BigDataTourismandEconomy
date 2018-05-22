@@ -1,3 +1,6 @@
 
 
 Part of Course Project. To SOlve SDG8
+Developed a Recommender System to suggest tourist places to users.
+This was done using Hadoop MapReduce, Spark, Recommender Systems, LSH and python tkinter library
+Targeted SDG-8 (Decent work and Economic Growth) to analyse how tourism affected economy of a state.
